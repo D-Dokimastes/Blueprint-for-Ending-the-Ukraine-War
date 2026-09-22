@@ -1,0 +1,120 @@
+# Blueprint for Ending the Ukraine War
+
+> Independent conceptual framework for negotiating an end to the Russia–Ukraine war. It is a starting point for negotiation, not a finished treaty.
+
+Version 18 is the current reference version.
+
+## Document Authority
+
+The English v18 text is authoritative.
+
+The Russian and Ukrainian v18 texts are translations intended to preserve the same substantive architecture. In case of ambiguity or apparent discrepancy, interpretation should first seek the common meaning shared by the English, Russian and Ukrainian texts. Where no common meaning can be established, the English original has priority.
+
+## Blueprint Outline
+
+### Executive Summary
+Summary of the proposed settlement architecture and principal exchanges.
+
+### 1. Origins of the Conflict: Overlapping “Imagined Communities”
+- Ukraine
+- Russia
+- Europe and the United States
+- Consequences of incompatible national and geopolitical narratives
+
+### 2. First Movements Towards a Negotiable Reality Frame
+Identification of changes required to move from incompatible starting positions toward a negotiable settlement.
+
+### 3. The Realpolitik Problem
+- Ukrainian objectives and red lines
+- Russian objectives and red lines
+- United States interests
+- European interests
+
+### 4. War Continuation Risk
+- Risks to Ukraine
+- Risks to Russia
+- Decision threshold at which compromise becomes preferable to continued war
+
+### 5. General Solution: The Swiss Confederation Model After the Sonderbund War
+- Constitutional allocation of power
+- Rights and exercise of public power
+- Defence and external posture
+- Selective constitutional entrenchment and constitutional locks
+- Ukrainian constitutional review
+- Reciprocal Ukrainian and Russian constitutional implementation
+- NATO posture adjustment
+- European military risk reduction and transparency
+- European economic association without military-bloc incorporation
+- Security boundaries for European association
+- Conflict Commission for historical inquiry, reconciliation and prevention
+- Personal-integrity requirements for public office
+- Civilian continuity and right of return
+- Reconstruction
+- Ukraine Reconstruction Investment Fund
+- Post-settlement force integration
+- Sanctions relief
+
+### 6. Crimea and Sevastopol: A Special Solution
+
+#### Crimea
+- Andorra-inspired Ukrainian-Russian co-principality
+- Crimean Constitution
+- Civilian continuity and return
+- Continuity of local administration
+- Transitional civilian coast guard
+- Demilitarisation and shared-sovereignty architecture
+
+#### Sevastopol
+- Fleet Transition Module
+- Verified Russian fleet transition
+- Conversion to a Free Port and Free Trade Zone
+- Permanent demilitarised end-state
+- Strategic and economic functions
+
+### 7. Why This Blueprint Structure Is a Win-Win Proposal
+Settlement implications from the perspectives of:
+- United States
+- Russia
+- Ukraine
+- Europe
+- Post-war national projects and strategic functions
+
+### 8. Roadmap to an Executable Agreement Package
+1. Pre-negotiation format
+2. Strategic mapping by each principal
+3. Immediate stabilisation tied to negotiations
+4. Core bilateral questions
+5. Crimea and Sevastopol package
+6. External verification, enforcement and implementation
+7. Domestic ratification and narrative control
+
+### 9. Why the United States Should Be Involved
+- Feasibility of the United States as lead broker
+- Incentive structure for high-level US political involvement
+
+### 10. Final Criterion
+The standard against which the overall settlement package should be judged.
+
+### 11. Treaty Activation Sequence
+Sequencing of provisional, reciprocal and final obligations required to bring the settlement into force.
+
+### 12. Conclusion and Next Steps
+Transition from conceptual blueprint to negotiation and implementation.
+
+## Supporting Material
+- Source Note and Scope
+- AI Usage Declaration
+- Declaration of Motivation
+- Reuse and Attribution
+- Cryptographic Signature and Reference Record
+
+## Corpus
+
+The repository contains:
+- English v18 — authoritative reference version
+- Russian v18 — translation
+- Ukrainian v18 — translation
+
+## Reuse
+
+CC0 1.0 Universal. The work may be copied, adapted, translated, incorporated into other proposals, or used without permission, attribution, or compensation.
