@@ -15,7 +15,7 @@ The Russian and Ukrainian v18 texts are translations intended to preserve the sa
 ### Executive Summary
 Summary of the proposed settlement architecture and principal exchanges.
 
-### 1. Origins of the Conflict: Overlapping “Imagined Communities”
+### 1. Origins of the Conflict: Overlapping "Imagined Communities"
 - Ukraine
 - Russia
 - Europe and the United States
@@ -107,6 +107,165 @@ Transition from conceptual blueprint to negotiation and implementation.
 - Declaration of Motivation
 - Reuse and Attribution
 - Cryptographic Signature and Reference Record
+
+## Problems and Settlement Mechanisms
+
+### Russia–Ukraine–West security trap
+Problem: Russia, Ukraine and Western states may have minimum security requirements that appear mutually incompatible. Russia seeks durable Ukrainian non-alignment and exclusion of foreign military infrastructure; Ukraine seeks sovereignty and security arrangements credible enough to prevent renewed attack; Western states seek to prevent Ukrainian defeat while avoiding direct military confrontation with nuclear-armed Russia. Conventional solutions can therefore make one actor's security requirement violate another's.
+
+Relevant mechanisms:
+- Swiss-style armed neutrality combined with substantial Ukrainian sovereign self-defence
+- No NATO membership or foreign combat bases
+- Ukraine cannot become a foreign military platform against any neighbouring state
+- Security based partly on reciprocal constraints and endogenous Ukrainian defence rather than dependence on foreign combat forces
+- Reciprocal Ukrainian and Russian constitutional and domestic-legal implementation
+- Bilateral substantive settlement with external verification and implementation support
+- Territorial reintegration combined with constitutional accommodation
+- Crimea co-sovereignty rather than unresolved territorial ambiguity
+- Milestone-triggered sanctions relief and matched exposure
+- Verification, failure-state provisions and treaty activation sequencing
+
+### Security requirements rooted in national and civilisational identity
+Problem: Some apparently strategic disputes are reinforced by incompatible historical narratives, national identities and "imagined communities," making ordinary interest-based bargaining insufficient.
+
+Relevant mechanisms:
+- Explicit diagnosis of overlapping "imagined communities"
+- Constitutional accommodation without competing sovereignty
+- Protection of linguistic and cultural life
+- Conflict Commission for historical inquiry, reconciliation and prevention
+- Non-Expansion and Territorial Finality
+- Cross-border cultural, religious, educational and private association without political jurisdiction or territorial revision
+- Generational constitutional re-authorisation rather than permanent constitutional freezing
+
+### Ukraine–Russia security dilemma
+Problem: Ukraine seeks protection against renewed Russian attack while Russia seeks assurance that Ukraine cannot become a foreign military platform against it.
+
+Relevant mechanisms:
+- Swiss-style armed neutrality
+- Ukrainian sovereign defensive capability
+- No NATO membership or foreign combat bases
+- Security boundary applying against any neighbouring state
+- Reciprocal constitutional and domestic-legal implementation
+- Verification and failure-state provisions
+
+### Security guarantees without NATO membership
+Problem: Political assurances may be insufficient for Ukraine, while NATO membership or foreign military enforcement may be unacceptable to Russia.
+
+Relevant mechanisms:
+- Armed neutrality rather than demilitarisation
+- Ukrainian capacity for national self-defence
+- Reciprocal security constraints
+- External verification without replacement of the bilateral settlement core
+- Constitutional locks on irreversible security changes
+
+### Territorial reintegration
+Problem: Restoring Ukrainian territorial unity while addressing regional security, identity, language and governance concerns.
+
+Relevant mechanisms:
+- One sovereign Ukrainian state
+- Constitutional decentralisation
+- Municipal and rayon self-government
+- Ukrainian and Russian language protections
+- Integrated federal defence and security structures
+- Transitional arrangements followed by referendums after sustained peace
+
+### Crimea sovereignty deadlock
+Problem: Ukraine and Russia maintain incompatible claims to exclusive sovereignty over Crimea.
+
+Relevant mechanisms:
+- Ukrainian–Russian co-sovereignty
+- Andorra-inspired co-principality
+- Crimean constitutional self-government
+- Presumption of local competence
+- Crimean-Tatar protections
+- Access for citizens of both countries
+- Demilitarisation
+- Mechanisms for resolving competence disputes
+
+### Sevastopol and the Black Sea Fleet
+Problem: Immediate termination of Russian naval presence and indefinite Russian basing represent incompatible end states.
+
+Relevant mechanisms:
+- Verified 25-year fleet draw-down
+- Transitional basing arrangements
+- Synchronised implementation
+- Permanent demilitarised end-state
+- Free Port / Free Trade Zone
+- No subsequent Russian, Ukrainian or third-state naval base
+
+### Russian-language and regional identity
+Problem: Protecting linguistic and regional life without territorial partition, separate foreign policy or competing sovereignty.
+
+Relevant mechanisms:
+- No designated official language
+- Access to essential public services in Ukrainian or Russian where reasonably required
+- Broader municipal bilingual administration where locally chosen
+- Ukrainian and Russian constitutional texts maintained as equally authentic
+- Strong local self-government within one sovereign state
+
+### Post-war armed formations and force integration
+Problem: Territorial reintegration may leave competing military structures, chains of command and external relationships.
+
+Relevant mechanisms:
+- Integration into federal Territorial Defence / National Guard structures
+- Single federal legal framework
+- Common oath, payroll, logistics, discipline, communications and mobilisation
+- Phased command integration
+- Prohibition of independent mobilisation
+- Prohibition of foreign military links and political armed groups
+
+### Sanctions bargaining and implementation
+Problem: Promised future sanctions relief may lack credibility, while premature relief removes leverage for implementation.
+
+Relevant mechanisms:
+- Milestone-triggered sanctions relief
+- Verification before release
+- Matched exposure between obligations and benefits
+- Partial-compliance rules
+- Failure-state provisions
+- Distinction between provisional and final obligations
+
+### European integration and military neutrality
+Problem: Ukraine may seek deep European integration while military-bloc incorporation conflicts with the proposed neutrality architecture.
+
+Relevant mechanisms:
+- Deep European economic association
+- EFTA/EEA-like or bespoke market-access arrangements
+- Schengen-style mobility
+- Reconstruction and regulatory integration
+- Separation of economic integration from collective-defence membership
+- Constitutional security lock for future military-integration changes
+
+### Settlement sequencing
+Problem: A ceasefire-first process that postpones fundamental disagreements may produce a managed pause rather than a durable settlement.
+
+Relevant mechanisms:
+- Single negotiating text
+- Hardest substantive questions addressed before final implementation design
+- Nothing agreed until everything is agreed, except independent humanitarian measures
+- Bilateral substantive core with multilateral verification and implementation
+- Treaty activation sequence
+- Provisional and final obligations
+- Explicit treatment of missed milestones, partial compliance, withdrawal attempts and external-actor failure
+
+### Constitutional durability and democratic legitimacy
+Problem: A settlement must remain durable without permanently freezing constitutional arrangements against future democratic consent.
+
+Relevant mechanisms:
+- Selective constitutional entrenchment
+- Federal-and-regional constitutional locks for specified security changes
+- Generational constitutional re-authorisation
+- Enhanced but non-permanent protection for specified constitutional classes
+- Procedures for amendment, retention, downgrade and restoration of prior constitutional positions
+
+### Recurrence of territorial revisionism
+Problem: A settlement may fail if territorial or identity claims are merely deferred to a later generation.
+
+Relevant mechanisms:
+- Non-Expansion and Territorial Finality
+- No territorial claims, annexation, political incorporation or externally directed national unification or secession
+- No ethnic, linguistic, religious, cultural, historical or civilisational claim overrides the settlement
+- Cross-border cultural and private association remains permitted without political jurisdiction, coercion, territorial revision or armed-group sponsorship
 
 ## Corpus
 
